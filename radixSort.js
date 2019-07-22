@@ -47,4 +47,3 @@ function radix(nums)
 }
 
 
-console.log(radix([23,345,5467,2345,9852]))
