@@ -1,4 +1,4 @@
-// getDigit to count to get digit at i position from rigth   Ex- getDigit(12345,3) will return 2
+// getDigit returns digit a perticular index
 function getDigit(num,i)
 {
   return Math.floor(num/Math.pow(10,i))%10
