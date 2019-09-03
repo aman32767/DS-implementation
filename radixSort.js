@@ -1,4 +1,4 @@
-// getDigit returns digit a perticular index
+// getDigit returns digit at perticular index
 function getDigit(num,i)
 {
   return Math.floor(num/Math.pow(10,i))%10
